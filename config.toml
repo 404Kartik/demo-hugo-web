@@ -1,0 +1,6 @@
+baseURL = "roarcoder.dev"
+languageCode = "en-us"
+title = "Roarcoders"
+theme = "ananke"
+
+
